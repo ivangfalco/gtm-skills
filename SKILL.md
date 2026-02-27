@@ -1,6 +1,6 @@
 # GTM Skills - Go-to-Market Methodology
 
-ColdIQ's GTM skill repository. 42 files across outbound, ABM, and RevOps.
+ColdIQ's GTM skill repository. 47 files across outbound, ABM, and RevOps.
 
 ---
 
@@ -38,7 +38,7 @@ ColdIQ's GTM skill repository. 42 files across outbound, ABM, and RevOps.
 
 ---
 
-## 02-abm/ (18 files)
+## 02-abm/ (23 files)
 
 | File | What It Covers |
 |------|---------------|
@@ -71,6 +71,15 @@ ColdIQ's GTM skill repository. 42 files across outbound, ABM, and RevOps.
 | `google-ads-b2b-guide.md` | B2B Google Ads strategy - campaign types, keyword strategy, bidding, Quality Score |
 | `google-ads-campaign-framework.md` | Campaign structure, naming conventions, RSA best practices, budget allocation |
 | `google-ads-optimization-playbook.md` | Weekly optimization, search terms audit, bid management, Performance Max |
+
+### meta-ads/
+| File | What It Covers |
+|------|---------------|
+| `meta-ads-b2b-guide.md` | Why Meta works for B2B, algorithm, Advantage+, ABM on Meta |
+| `meta-ads-campaign-framework.md` | Campaign structure, audience strategy, offer strategy, scaling roadmap |
+| `meta-ads-creative-strategy.md` | Creative as targeting, production cadence, fatigue detection, message validation |
+| `meta-ads-optimization-playbook.md` | Operating system, decision trees, lead forms, benchmarks |
+| `meta-ads-tracking-guide.md` | Pixel, CAPI, events, deduplication, third-party tracking |
 
 ### linkedin-ads/
 | File | What It Covers |
