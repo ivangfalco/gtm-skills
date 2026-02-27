@@ -1,6 +1,6 @@
 # GTM Skills - Go-to-Market Methodology
 
-ColdIQ's GTM skill repository. 47 files across outbound, ABM, and RevOps.
+ColdIQ's GTM skill repository. 39 files across outbound, ABM, and RevOps.
 
 ---
 
@@ -38,7 +38,7 @@ ColdIQ's GTM skill repository. 47 files across outbound, ABM, and RevOps.
 
 ---
 
-## 02-abm/ (23 files)
+## 02-abm/ (16 files)
 
 | File | What It Covers |
 |------|---------------|
@@ -71,6 +71,8 @@ ColdIQ's GTM skill repository. 47 files across outbound, ABM, and RevOps.
 | `google-ads-b2b-guide.md` | B2B Google Ads strategy - campaign types, keyword strategy, bidding, Quality Score |
 | `google-ads-campaign-framework.md` | Campaign structure, naming conventions, RSA best practices, budget allocation |
 | `google-ads-optimization-playbook.md` | Weekly optimization, search terms audit, bid management, Performance Max |
+| `google-ads-audience-strategy.md` | RLSA, Customer Match, in-market audiences, audience layering |
+| `google-ads-tracking-guide.md` | Conversion tracking, offline imports, gclid pipeline, GA4 integration |
 
 ### meta-ads/
 | File | What It Covers |
@@ -86,7 +88,7 @@ ColdIQ's GTM skill repository. 47 files across outbound, ABM, and RevOps.
 |------|---------------|
 | `linkedin-ads-abm-guide.md` | LinkedIn ABM campaign guide |
 | `linkedin-ads-creative-strategy.md` | Creative strategy for LinkedIn |
-| `linkedin-ads-creative-production.md` | Creative production workflow |
+| `linkedin-ads-campaign-framework.md` | Campaign structure, bidding, ad formats, copy, launch checklist, scaling, benchmarks |
 | `linkedin-ads-optimization-guide.md` | Optimization, bidding, demographic audits, benchmarks |
 | `linkedin-ads-audience-guide.md` | Audience sizing, targeting, exclusions, retargeting |
 
